@@ -1,5 +1,8 @@
 class Scooter {
-  
+  constructor(){
+    
+    
+  }
   
   
 }
